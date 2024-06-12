@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there! I'm Amit Mishra
 
-<!--
-**AmitMishra321/AmitMishra321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** with a strong affinity for **open source**. I love creating seamless, efficient, and innovative applications that make a difference.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- **Frontend:** HTML, CSS, JavaScript, React, 
+- **Backend:** Node.js, Express,
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Other:** Git, GraphQL, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Open Source Contributions:
+I'm a firm believer in the power of community-driven projects. Contributing to open source not only helps me learn and grow but also allows me to give back to the developer community. Check out my repositories to see some of the projects I've worked on!
+
+### 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/amit-mishra512/)
+- [Twitter](https://x.com/amitmishra2510/)
+
+
