@@ -9,6 +9,8 @@ I'm a passionate **Full Stack Developer** with a strong affinity for **open sour
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Other:** Git, GraphQL, REST APIs
 
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### 🌟 Open Source Contributions:
 I'm a firm believer in the power of community-driven projects. Contributing to open source not only helps me learn and grow but also allows me to give back to the developer community. Check out my repositories to see some of the projects I've worked on!
 
