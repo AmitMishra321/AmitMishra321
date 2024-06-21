@@ -3,13 +3,13 @@
 I'm a passionate **Full Stack Developer** with a strong affinity for **open source**. I love creating seamless, efficient, and innovative applications that make a difference.
 
 ### 🛠️ Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript, React, 
+- **Frontend:** HTML, CSS, JavaScript, React,TypeScript 
 - **Backend:** Node.js, Express,
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:**Prisma, MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Other:** Git, GraphQL, REST APIs
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,express,postgres,mongo,docker,kubernetes,git,graphql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,prisma,postgres,mongo,docker,kubernetes,git,graphql)](https://skillicons.dev)
 
 ### 🌟 Open Source Contributions:
 I'm a firm believer in the power of community-driven projects. Contributing to open source not only helps me learn and grow but also allows me to give back to the developer community. Check out my repositories to see some of the projects I've worked on!
